@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/peopleTable/peopleTable.css"],"names":[],"mappings":"AAAA,aACE,wBACF,CAEA,MACE,wBACF","file":"main.983e2f1e.chunk.css","sourcesContent":[".PeopleTable {\n  border-collapse: collapse;\n}\n\n.head {\n  text-transform: uppercase;\n}\n"]}
